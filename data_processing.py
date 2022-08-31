@@ -14,3 +14,9 @@ def mul(a,b):
     return b
 
 print("Added a new function mul.")
+
+def div(a,b):
+    e=a/b
+    return a
+
+print("Added a new function div.")
