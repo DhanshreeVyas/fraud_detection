@@ -5,6 +5,12 @@ b=10
 
 def sum(a,b):
     c=a+b
-    return a
+    return c
 
-print("Added a new function sum which is not correct.")
+print("Added a new function sum.")
+
+def mul(a,b):
+    d=a*b
+    return b
+
+print("Added a new function mul.")
